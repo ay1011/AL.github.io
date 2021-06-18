@@ -4,7 +4,5 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ## This is a title
 
-And you can include links, like this [link to first post](https://github.com/ay1011/AL.github.io/blob/master/_posts/2021-06-18_first_post.md). Posts will appear after this file. 
+And you can include links, like this [link to first post](/_posts/2021-06-18_first_post.md). Posts will appear after this file. 
 
-Table of contents
-{:toc}
