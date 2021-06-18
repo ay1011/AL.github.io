@@ -5,4 +5,4 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 ## This is a title
 
 And you can include links, like this [link to first post](2021-06-18_first_post.md). Posts will appear after this file. 
-[first post](https://github.com/ay1011/AL.github.io/blob/master/_posts/2021-06-18_first_post.md)
+[first post](/_posts/2021-06-18_first_post.md)
